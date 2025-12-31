@@ -66,7 +66,7 @@ These fields are essential for assessing data reliability, completeness, and pot
 
 1️⃣ 📈 Trends Over Time (Number of Attacks per Year)
 
-![alt text](image.png)
+![alt text](Images/image.png)
 
 
 **Interpretation:**
@@ -75,7 +75,7 @@ The line chart reveals a steady increase in the number of recorded cyberattacks 
 
 2️⃣ 🏢 Top 10 Affected Sectors
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 
 **Interpretation:**
@@ -84,7 +84,7 @@ The bar chart shows that sectors such as government, finance, healthcare, and te
 
 3️⃣ 💣 Most Frequent Attack Types
 
-![alt text](image-2.png)
+![alt text](Images/image-2.png)
 
 
 **Interpretation:**
@@ -92,7 +92,7 @@ The most common attack types include data breaches, ransomware, phishing, and de
 
 4️⃣ 🌍 Top 10 Targeted Countries
 
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
 
 **Interpretation:**
 
